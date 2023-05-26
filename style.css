@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .h1 {
+    color: #333;
+  }
+  
+  #start-container {
+    margin-top: 100px;
+  }
+  
+  #quiz-container {
+    display: none;
+  }
+  
+  #question {
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  #options {
+    margin-bottom: 20px;
+  }
+  
+  #feedback {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  #result-container {
+    display: none;
+  }
+  
+  #score {
+    color: green;
+  }
+  
+  #timer {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
